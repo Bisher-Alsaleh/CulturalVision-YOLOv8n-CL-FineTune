@@ -3,6 +3,9 @@
 # YOLOv8n-CL fine-tuned on Google Landmarks (10 classes)
 Fine-tuning YOLOv8n-CL on 10 classes from the Google Landmarks Dataset to create a lightweight landmark recognition model supporting cultural heritage preservation.
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue?style=plastic)](https://opensource.org/licenses/Apache-2.0)
+[![](https://img.shields.io/badge/Kaggle-Notebook-%2320BEFF?style=plastic&logo=kaggle)](https://www.kaggle.com/code/bisheralsaleh/fine-tune-yolov8-on-google-landmark-dataset)
+![](https://img.shields.io/badge/v3.11-green?style=plastic&logo=python&label=Python3&labelColor=black&color=green)
 <img width="888" height="888" alt="Discretized Path Tracking" src="https://github.com/user-attachments/assets/1ae3e131-c2f7-4428-83f6-b8d7f95f7c5b" />
 </div>
 
