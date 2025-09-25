@@ -79,3 +79,13 @@ Training logs and plots are available in results/.
   url     = {https://github.com/Bisher-Alsaleh/CulturalVision-YOLOv8n-CL-FineTune}
 }
 ```
+## 🙏 Acknowledgments
+
+I would like to express my sincere gratitude to the following projects and datasets that made this work possible:
+
+- 🔹 YOLOv8: This project uses **[YOLOv8](https://github.com/ultralytics/ultralytics)** (Ultralytics) as the base classification model.  
+YOLOv8 provides a state-of-the-art classification framework, which has enabled rapid experimentation and fine-tuning on the landmark dataset.
+
+- 🔹 Google Landmarks Dataset v2: The dataset used in this project is based on the **[Google Landmarks Dataset v2](https://www.kaggle.com/competitions/landmark-recognition-2020/data)**.  
+I acknowledge Google and Kaggle for providing this dataset to facilitate research in landmark recognition and cultural heritage preservation.
+- 🔹 Kaggle: I acknowledge **[Kaggle](https://www.kaggle.com/)** for providing the GPU-enabled environment, which was crucial for training and fine-tuning the YOLOv8n-CL model efficiently on the landmark dataset.
