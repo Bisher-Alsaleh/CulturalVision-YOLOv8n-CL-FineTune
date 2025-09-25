@@ -6,28 +6,6 @@ Fine-tuning YOLOv8n-CL on 10 classes from the Google Landmarks Dataset to create
 <img width="888" height="888" alt="Discretized Path Tracking" src="https://github.com/user-attachments/assets/1ae3e131-c2f7-4428-83f6-b8d7f95f7c5b" />
 </div>
 
-## 📦 Datasets & Weights
-
-### 1. Full Google Landmarks Dataset v2
-
-- **Official Dataset:**  
-  [Google Landmarks Dataset v2 on Kaggle](https://www.kaggle.com/competitions/landmark-recognition-2020/data)  
-  This dataset contains over 5 million images spanning 200,000 landmark classes. It is used in this repo.
-
-### 2. Prepared Dataset & Fine-Tuned Weights
-
-- **Kaggle Dataset:**  
-  [yolo-landmark-finetuned](https://www.kaggle.com/datasets/bisheralsaleh/yolo-landmark-finetuned)  
-  This repository contains a curated subset of the Google Landmarks Dataset v2, focusing on the top 10 landmark classes, along with the fine-tuned YOLOv8n-CL model weights.
-
-- **Demo Notebook:**  
-  [Fine-tune YOLOv8 on Google Landmark Dataset](https://www.kaggle.com/code/bisheralsaleh/fine-tune-yolov8-on-google-landmark-dataset)  
-  This notebook demonstrates the process of dataset preparation, model training, and evaluation.
-
-⚠️ **Note:** Large assets (dataset & `.pt` weights) are not included in this repository. Please download them from Kaggle.
-
----
-
 ## 📦 Installation
 
 Clone the repository and install the required dependencies:
