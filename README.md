@@ -85,7 +85,7 @@ python src/infer.py --weights models/best.pt --test_dir /path/to/test/images
 
 ✅ Top-1 Accuracy: 0.979
 
-✅ Top-5 Accuracy:0.998
+✅ Top-5 Accuracy: 0.998
 
 Training logs and plots are available in results/.
 
