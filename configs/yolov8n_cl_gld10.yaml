@@ -1,0 +1,14 @@
+model: yolov8n-cls.pt
+data: data/dataset.yaml
+epochs: 24
+imgsz: 224
+batch: 32
+optimizer: AdamW
+lr0: 0.001
+lrf: 0.01
+weight_decay: 0.01
+augment: true
+dropout: 0.1
+cos_lr: true
+warmup_epochs: 2
+save_dir: results/train

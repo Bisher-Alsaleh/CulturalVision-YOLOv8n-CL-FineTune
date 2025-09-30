@@ -1,0 +1,22 @@
+# Path to the root of your dataset
+path: ../data   # adjust relative path if needed
+
+# Subfolders for train and validation
+train: train
+val: val
+
+# Number of classes
+nc: 10
+
+# Class names
+names:
+  0: 113209   # landmark_id for class 0
+  1: 126637   # landmark_id for class 1
+  2: 138982
+  3: 139894
+  4: 149980
+  5: 177870
+  6: 1924
+  7: 194914
+  8: 20409
+  9: 83144
